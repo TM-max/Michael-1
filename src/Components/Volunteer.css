@@ -1,0 +1,47 @@
+
+label{
+    display: block;
+    width: 260px;
+   margin: 25px auto;
+   text-align: center;
+   text-transform: uppercase;
+
+    }
+
+button{
+    display: block;
+    margin: 0 auto;
+    width: 260px;
+    height: 36px;
+    border-radius: 30px;
+    color: blueviolet;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+input-type{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 500px;
+    height: 500px;
+}
+
+
+.submit:hover{
+    background: yellow;
+
+}
+.form{
+    margin-top: 2cm;
+    display: flex;
+    flex-direction:column ;
+    align-items: flex-start;
+    width: fit-content;
+    
+    }
+
+
+
+
